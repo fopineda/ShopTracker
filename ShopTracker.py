@@ -2,6 +2,7 @@ from array_queue import ArrayQueue
 
 """ Tracks a shop's list of clients using a queue """
 """ By Felipe Pineda 4/2/16 """
+""" <fopineda95@gmail.com """
 
 
 class ShopTracker:
